@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @necmicolak
 - 👀 I’m interested in Laravel
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning VueJS and Tailwind
 - 📫 How to reach me : devcloud.nec@gmail.com
